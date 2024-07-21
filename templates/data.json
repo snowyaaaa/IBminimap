@@ -34,6 +34,20 @@
 	"width": 64,
 	"height": 64
 	},
+	"Senko pixelart": {
+	"name": "Senko_pixelart.png",
+	"x": 16350,
+	"y": 30600,
+	"width": 256,
+	"height": 256
+	},
+	"Sekiro_death": {
+	"name": "DEATH.png",
+	"x": 15113,
+	"y": 30332,
+	"width": 91,
+	"height": 105
+	},
 	"Win98PC": {
 	"name": "win98computer.png",
 	"x": 14940,
